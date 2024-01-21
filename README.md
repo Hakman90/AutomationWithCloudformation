@@ -11,8 +11,8 @@ Create Stack: <br/>
 <img src="https://imgur.com/dw0gFxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Upload Cloudformation Template:  <br/>
+<img src="https://imgur.com/8Cqi6kP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
