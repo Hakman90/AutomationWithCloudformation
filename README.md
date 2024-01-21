@@ -8,7 +8,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Create Stack: <br/>
-<img src="https://imgur.com/a/bbEps9H" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dw0gFxv" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
