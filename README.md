@@ -26,8 +26,8 @@ Confirm Role Access and submit Stack:  <br/>
 <img src="https://imgur.com/SFCsYK4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Stack Creation Complete:  <br/>
+<img src="https://imgur.com/9bCOTIA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
